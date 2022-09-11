@@ -1,0 +1,24 @@
+{
+  "name": "saludo",
+  "version": "1.0.0",
+  "description": "Este es un saludo para OpenBootcamp, con javascript!",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node saludo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Cardozo/Open-Bootcamp.git"
+  },
+  "keywords": [
+    "Saludo",
+    "Open-Bootcamp"
+  ],
+  "author": "David Cardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Cardozo/Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/David-Cardozo/Open-Bootcamp#readme"
+}
